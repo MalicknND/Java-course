@@ -1,4 +1,4 @@
-package nonprimitivedatatype;
+package dataType_Variables.nonprimitivedatatype;
 
 public class Demo2 {
 

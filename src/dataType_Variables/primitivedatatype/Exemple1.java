@@ -1,4 +1,4 @@
-package primitivedatatype;
+package dataType_Variables.primitivedatatype;
 
 public class Exemple1 {
     public static void main(String[] args) {
