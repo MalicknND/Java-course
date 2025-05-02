@@ -1,4 +1,4 @@
-package dataType_Variables.methods;
+package methods;
 
 // Exemple de passage de paramètre par valeur (pass-by-value)
 

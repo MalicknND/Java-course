@@ -1,4 +1,4 @@
-package dataType_Variables.methods;
+package methods;
 
 
 // comment appeler une fonction en java

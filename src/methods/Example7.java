@@ -1,4 +1,4 @@
-package dataType_Variables.methods;
+package methods;
 
 // Pass by reference
 public class Example7 {

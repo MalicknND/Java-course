@@ -1,4 +1,4 @@
-package dataType_Variables.methods;
+package methods;
 
 // varargs in the methos
 public class Exemple9 {

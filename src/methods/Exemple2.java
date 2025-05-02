@@ -1,4 +1,4 @@
-package dataType_Variables.methods;
+package methods;
 
 public class Exemple2 {
     public static void main(String[] args) {
