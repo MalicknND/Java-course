@@ -9,5 +9,6 @@ public class Exemple4 {
         System.out.println("Element of row = 1 & column = 1 is : " + matrix[1][1]);
         matrix[1][1] = 10;
         System.out.println("Matriz exempe now" + Arrays.deepToString(matrix));
+
     }
 }
